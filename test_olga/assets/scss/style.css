@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box; }
+
+html, body {
+  margin: 0 auto; }
+
+figure {
+  width: 240px; }
+  figure blockquote {
+    border: 1px solid #eee;
+    border-radius: 5px;
+    background-color: #eeeeee;
+    padding: 15px; }
+  figure figcaption {
+    padding: 0 15px; }
+    figure figcaption cite {
+      color: green; }
+
+/*# sourceMappingURL=style.css.map */
